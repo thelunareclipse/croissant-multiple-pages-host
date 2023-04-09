@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 600px;
+}
+.container-fluid {
+  max-width: 600px;
+}
