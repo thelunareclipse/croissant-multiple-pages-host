@@ -3,7 +3,7 @@
 }
 
 body {
-  background: var(--primary-color);
+  background-color: var(--primary-color);
 }
 h1 {
   text-align: center;
