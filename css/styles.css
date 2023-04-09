@@ -2,6 +2,9 @@
   --primary-color: #f6e4ad;
 }
 
+body {
+  background: var(--primary-color);
+}
 h1 {
   text-align: center;
 }
