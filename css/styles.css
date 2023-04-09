@@ -1,9 +1,6 @@
 :root {
   --primary-color: #f6e4ad;
 }
-body {
-  background-color: var(--primary-color);
-}
 
 h1 {
   text-align: center;
@@ -14,6 +11,18 @@ p {
   text-align: center;
   width: 600px;
 }
+
+a {
+  display: block;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 550px;
+}
+
 .container-fluid {
+  margin-top: 20px;
   max-width: 600px;
 }
